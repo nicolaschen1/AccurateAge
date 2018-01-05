@@ -1,0 +1,16 @@
+c:\users\helios\documents\visual studio 2015\Projects\AccurateAge\AccurateAge\bin\Debug\AccurateAge.exe.config
+c:\users\helios\documents\visual studio 2015\Projects\AccurateAge\AccurateAge\bin\Debug\AccurateAge.exe
+c:\users\helios\documents\visual studio 2015\Projects\AccurateAge\AccurateAge\bin\Debug\AccurateAge.pdb
+c:\users\helios\documents\visual studio 2015\Projects\AccurateAge\AccurateAge\obj\Debug\AccurateAge.Form1.resources
+c:\users\helios\documents\visual studio 2015\Projects\AccurateAge\AccurateAge\obj\Debug\AccurateAge.Properties.Resources.resources
+c:\users\helios\documents\visual studio 2015\Projects\AccurateAge\AccurateAge\obj\Debug\AccurateAge.csproj.GenerateResource.Cache
+c:\users\helios\documents\visual studio 2015\Projects\AccurateAge\AccurateAge\obj\Debug\AccurateAge.exe
+c:\users\helios\documents\visual studio 2015\Projects\AccurateAge\AccurateAge\obj\Debug\AccurateAge.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\AccurateAge\AccurateAge\AccurateAge\bin\Debug\AccurateAge.exe.config
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\AccurateAge\AccurateAge\AccurateAge\obj\Debug\AccurateAge.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\AccurateAge\AccurateAge\AccurateAge\obj\Debug\AccurateAge.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\AccurateAge\AccurateAge\AccurateAge\bin\Debug\AccurateAge.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\AccurateAge\AccurateAge\AccurateAge\bin\Debug\AccurateAge.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\AccurateAge\AccurateAge\AccurateAge\obj\Debug\AccurateAge.Form1.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\AccurateAge\AccurateAge\AccurateAge\obj\Debug\AccurateAge.Properties.Resources.resources
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\AccurateAge\AccurateAge\AccurateAge\obj\Debug\AccurateAge.csproj.GenerateResource.Cache
